@@ -8,6 +8,19 @@
 |from|Tokyo|
 |X|https://x.com/uekenu|
 
+## Stack
+
+|key|value|
+|--|--|
+|Language|Ruby, TypeScript, JavaScript, PHP, Go, Swift, Kotlin|
+|Framework|Ruby on Rails, Laravel, Next.js|
+|DataStore|MySQL, Amazon Aurora MySQL, PostgreSQL, Redis, ElastiCache|
+|Infrastructure|Docker, Kubernetes, EKS, ECS, ECR, Terraform|
+|CI/CD|GitHub Actions, CircleCI, Jenkins|
+|SearchEngine|Elasticsearch, OpenSearch|
+|Monitoring|Datadog, Sentry, Mackerel, Cloudwatch|
+|AI|Cursor, Claude Code, Devin, GitHub Copilot, Amazon Bedrock|
+
 ## 経歴
 
 ### 2020年10月〜現在 株式会社トリビュー
@@ -38,3 +51,17 @@ SNS キャンペーンツールの開発およびチームビルディング
 SNSキャンペーンにおけるキャンペーン LP の制作
 
 ### 2009年4月〜2017年3月 千葉大学工学部建築学科
+
+## 興味ある業界
+
+- 教育
+- 飲食
+- 物流
+- 宇宙
+- 医療
+- 建築
+
+## やりたくないこと
+
+- 受託開発
+- 人の目標設定や評価に携わる役職
